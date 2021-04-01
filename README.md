@@ -45,3 +45,9 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 <br>
 
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+<br>
+- [Abod1960](https://github.com/Abod1960)/[t-rex-runner](https://github.com/Abod1960/t-rex-runner) [go and play](https://abod1960.github.io/t-rex-runner/) 
+
+
+![](https://raw.githubusercontent.com/Abod1960/t-rex-runner/gh-pages/assets/nord theme preview.gif)
+<br>
