@@ -8,4 +8,4 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 [go and enjoy! :v: :grin:  ](https://abod1960.github.io/t-rex-runner/)
 
 
-![1](https://github.com/Abod1960/t-rex-runner/commit/715efcf61d6c6201c1d6c7e2f93b96b8ddc69ed3#diff-3dd665183686960c58338507ba01e2fb4dcdb32b90a22ac63d9141fb482fd001)
+![1](assets/nord theme preview.gif)
