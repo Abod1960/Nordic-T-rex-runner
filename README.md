@@ -7,5 +7,5 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 
 [go and enjoy! :v: :grin:  ](https://abod1960.github.io/t-rex-runner/)
 
-(assets/nord theme preview.gif)
-![](assets/t-rex-runner-bot.gif)
+
+![](assets/nord theme preview.gif)
