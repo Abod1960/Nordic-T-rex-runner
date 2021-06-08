@@ -1,6 +1,6 @@
 ## t-rex-runner
 
-[1](https://github.com/Abod1960/T-rex-runner/blob/gh-pages/assets/nord%20theme%20preview.gif?raw=true)
+[1](https://i.imgur.com/gD8gdP5.mp4)
 
 the trex runner game extracted from chrome offline err page.
 
