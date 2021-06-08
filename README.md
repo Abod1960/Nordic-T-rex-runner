@@ -1,6 +1,6 @@
-## t-rex-runner
+## T-rex-runner
 
-[1](https://i.imgur.com/gD8gdP5.mp4)
+![](assets/nord theme preview.gif)
 
 the trex runner game extracted from chrome offline err page.
 
@@ -10,4 +10,4 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 [go and enjoy! :v: :grin:  ](https://abod1960.github.io/t-rex-runner/)
 
 
-[1](https://cloud.degoo.com/share/9hkXa59nrHeyR1wHGuW8ew)
+
