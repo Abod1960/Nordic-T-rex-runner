@@ -1,7 +1,9 @@
 <h1 align="center">T-rex-runner</h1>
-
+<div align="center">
+  
 ![1](https://github.com/Abod1960/T-rex-runner/blob/2e452e6a3e957960bd7644ccf4d45f25ce858899/assets/nord%20theme%20preview.gif)
 
+</div>
 ## ⁉ What is this
 this is a T-rex runner game extracted from chrome offline err page.
 
