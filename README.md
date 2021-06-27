@@ -16,7 +16,7 @@ here it is:
 
 originally by:
 
-🐏 **wayou**
+🧍‍♂️ **wayou**
 
 * 🐦 Twitter: [@liuwayong](https://twitter.com/liuwayong)
 * 💻 GitHub: [@wayou](https://github.com/wayou)
