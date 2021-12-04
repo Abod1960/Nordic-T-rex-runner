@@ -14,6 +14,8 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 here it is:
 [go and enjoy! :v: :grin:  ](https://abod1960.github.io/T-rex-runner/)
 
+## 👤 Author
+
 originally by:
 
 🧍‍♂️ **wayou**
