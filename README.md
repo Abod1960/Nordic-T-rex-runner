@@ -11,7 +11,7 @@ this is a T-rex runner game extracted from chrome offline err page.
 see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 ,💠 I want to play it!
 here it is:
-[go and enjoy! :v: :grin:  ](https://abod1960.github.io/T-rex-runner/)
+[go and enjoy! :v: :grin:  ](https://abod1960.github.io/Nordic-T-rex-runner/)
 
 ## 👤 Author
 
